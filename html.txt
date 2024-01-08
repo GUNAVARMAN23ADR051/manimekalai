@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Story With Picture</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+<div class="container mt-3">
+<h2 class="text-danger">Agenda Of The Page:</h2>
+<table class="table table-dark">
+<thead>
+<tr>
+<th>Topics</th>
+<th>About</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Histroy Of THE GREAT WALL</td>
+<td>Histroy And Explanation Of THE GREAT WALL</td>
+</tr>
+<tr>
+<td>Histroy Of TAJ MAHAL</td>
+<td>Histroy And Story of TAJ MAHAL</td>
+</tr>
+<tr>
+<td>Histroy Of THIRUVALUVAR SILAI</td>
+<td>Histroy and story THIRUVALUVAR SILAI</td>
+</tr>
+<tr>
+<td>Histroy of The Leaning Tower of Pisa</td>
+<td>Histroy and story The Leaning Tower of Pisa</td>
+</tr>
+</tbody>
+</div><br>
+<br>
+<p class="text-danger">DISCLAIMER: THIS CONTENT IS OUT OF COPYRIGHTS AND IT IS CREATED IN THE MOTIVE OF STUDY PURPOSE AND IT IS NOT GOING TO INTENTIONALLY HARM ANYONE PERSONALLY</p>
+<br>
+<h3 class="text-success">ABOUT THIS PAGE:</h3>
+<br>
+<p class="text-primary">The content given here are placed only in order to make children learn the concepts in a esay and funny manner.
+Children should make use of this page in a good manner so that the way of learning will be in a self-possesed way and it would be easy for them to understand the concepts.</p>
+<h4 class="text-danger">Trying to misuse this website or doing any COPYRIGHT ACTION will cause you to a serious trouble. So beware of the disclaimer presented here and study well!!.</h4>
+<h5 class="text-warning">The next page will talk about the Paris famous THE GREAT WALL and the learing is made easier for the children and for Adults to understand.</h5>
+<ul class="nav justify-content-center">
+<li class="nav-item">
+<a class="nav-link" href="C:\Users\gunav\OneDrive\Documents\the great wall.html">Link for Histroy and Explanation Of THE GREAT WALL</a>
+<a class="nav-link" href="C:\Users\gunav\OneDrive\Documents\varmaa2.html">Link for Histroy And Explanation Of Taj Mahal</a>
+<a class="nav-link" href="C:\Users\gunav\OneDrive\Documents\silai.html">Link For Histroy And Explanation Of THIRUVALUVAR SILAI</a>
+<a class="nav-link" href="C:\Users\gunav\OneDrive\Documents\the leaning tower of pisa.html">Link For Histroy And Explanation Of The Leaning Tower of Pisa</a>
+
+
+    </li>
+
+</ul>
+</div>
+</body>
+</html>
